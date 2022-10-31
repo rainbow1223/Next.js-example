@@ -1815,10 +1815,10 @@
   resolved "https://registry.yarnpkg.com/@n8tb1t/use-scroll-position/-/use-scroll-position-2.0.3.tgz#207c54d584285cac0954d556964f83cf5774940b"
   integrity sha512-6GO4FHVJTMI4jbRHborzemuL6B319qh2cVLOLj8DApJhjyT71eLgANbQ4bNKSZ51zBm3uJ3WmqnyNF17eSsDyw==
 
-"@next/bundle-analyzer@^12.2.4":
-  version "12.2.4"
-  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-12.2.4.tgz#2e9c709ad6baf9cecd4f89d63646ab182ba8f1b4"
-  integrity sha512-7kyv8UBSq85wODeqemHJrvc1eg7He+oyA04XTKL8gUvE50uKlIpCh5PXP4ko4yphhWADGq8LeFOZXLIfbc7Fdg==
+"@next/bundle-analyzer@^13.0.1":
+  version "13.0.1"
+  resolved "https://registry.yarnpkg.com/@next/bundle-analyzer/-/bundle-analyzer-13.0.1.tgz#efbc6f2869d45878417de74ab2da963560952804"
+  integrity sha512-kbqFU8hOH/rhQyn1dGAoeM5uJcO7hl+foPvGzaG8Ciu4Z6F4+34emmflTc+YecWTkYNP4SA3KortG3qzfsGkPA==
   dependencies:
     webpack-bundle-analyzer "4.3.0"
 
